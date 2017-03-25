@@ -44,5 +44,8 @@
   "description": "node-multi-hashing",
   "bugs": {
     "url": "https://github.com/UNOMP/node-multi-hashing/issues"
+  },
+  "typescript": {
+    "definition": "mulithashing.d.ts"
   }
 }
