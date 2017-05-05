@@ -47,5 +47,6 @@
   },
   "typescript": {
     "definition": "mulithashing.d.ts"
-  }
+  },
+  "license": "GPL-3.0"
 }
